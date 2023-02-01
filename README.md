@@ -11,8 +11,9 @@ In order to use this application, clone the github repo. You will need to have n
 ## Usage
 
 Update env file to have your local computers sequel user and pasword. Run the sequel file with "source db/schema.sql" in your terminal. Run "npm run seed" in your terminal. 
-Watch video attatchment for additional instructions:
+Watch video attatchment for additional instructions & passing insomnia tests:
 
+https://drive.google.com/file/d/1cwC0jw0NLKOt1izYMGeaz0d62FHSd9_C/view?usp=sharing
 
 ## License
 
